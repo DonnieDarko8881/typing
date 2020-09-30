@@ -1,5 +1,7 @@
 # Typing
 
+Link to production https://typing.donniedarko8881.vercel.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
 ## Development server
